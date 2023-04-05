@@ -1,0 +1,38 @@
+.data{
+    text-align: center;
+    display: flex;
+    position: relative;
+    left: 250px;
+
+}
+.cause{
+    position: relative;
+    top:100px;
+    left:150px;
+}
+.title{
+    position: relative;
+    top:100px;
+    left:250px;
+
+}
+.month {
+    position: relative;
+    top:100px;
+    left:350px;
+
+}
+.year{
+    position: relative;
+    top:100px;
+    left:450px;
+
+
+}
+.day{
+    position: relative;
+    top:100px;
+    left:550px;
+
+
+}

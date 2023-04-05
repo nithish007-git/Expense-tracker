@@ -1,0 +1,36 @@
+.expenses-filter {
+    color: white;
+    padding: 0 1rem;
+    position: relative;
+    top:60px;
+    left: 350px;
+  }
+  
+  .expenses-filter__control {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    position: relative;
+    top:0px;
+    justify-content: space-between;
+    margin: 1rem 0;
+  }
+  
+  .expenses-filter label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    position: relative;
+    top:55px;
+    left:1cm;
+    font-size: larger
+  }
+  
+  .expenses-filter select {
+    font: inherit;
+    padding: 0.5rem 3rem;
+    font-weight: bold;
+    border-radius: 6px;
+    position: relative;
+    top:50px;
+    right:7.5cm;
+  } 
